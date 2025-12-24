@@ -23,7 +23,9 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
 ### 2. Systems Dynamics and Controls Autonomous Indycar Controller
    - Desinged a controller to autonomously get a Indycar around a track
    - Matlab and Matlab plugins
-   - ***Add performance numbers***
+   - Enhanced Stability by a factor of 10
+   - [Systems Final Presentation.pdf](https://github.com/user-attachments/files/24333923/Systems.Final.Presentation.pdf)
+
 
 ## Let's Connect!
 Feel free to reach out for collaborations or opportunities. Star this repo if you find it useful! ⭐
