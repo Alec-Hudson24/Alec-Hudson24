@@ -14,22 +14,20 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
 
 
 ### 1. IV Bag with position control and low level fluid sensing
-   - 
-   - **Tech Stack**: Python, OpenCV, ROS, Arduino
-   - **Repo**: [Link to Repo]
-   - **Demo**: [Link to Video or Live Demo]
-   - **Achievements**: Presented at [Conference]; Won [Award]
+   - desinged and fabricated a IV holder which raises and lowers between 5 and 7 ft. It also will measure the level of fluid in the IV bag using a load cell and an alarm will go off when it gets below a desired percentage
+   - Solidworks, Arduino IDE, Soldering
+   - Link to Demo: https://www.youtube.com/watch?v=gjZ4MjLh-VY
+   - Achieved top marks in my entire class
 
-   ![Project Screenshot](path/to/screenshot.png)
 
 ### 2. Systems Dynamics and Controls Autonomous Indycar Controller
    - Desinged a controller to autonomously get a Indycar around a track
    - Matlab and Matlab plugins
-   - **Impact**: Optimized designs for a client project, saving 20% in material costs.
+   - ***Add performance numbers***
 
 ## Let's Connect!
 Feel free to reach out for collaborations or opportunities. Star this repo if you find it useful! ⭐
 
 ---
 
-Last updated: [Date]
+Last updated: 12/24/2025
