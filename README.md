@@ -18,7 +18,7 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
    - Solidworks, Arduino IDE, Soldering
    - Link to Demo: https://www.youtube.com/watch?v=gjZ4MjLh-VY
    - Achieved top marks in my entire class
-   - 📐 Download the full 3D model: [IV Project.step](IV Project.step)
+   - 📐 Download the full 3D model: [[IV Project.step](IV Project.step)](https://github.com/Alec-Hudson24/Alec-Hudson24/blob/8172feae08f5deccbfc4d61be5180c613d4efd7b/IV%20Project.STEP)
 
 
 
