@@ -20,7 +20,7 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
    - Achieved top marks in my entire class
    - 📐 Download full 3D model (STEP): [IV Project.STEP](IV%20Project.STEP)
      
-     ![image alt](https://github.com/Alec-Hudson24/Alec-Hudson24/blob/c71e0cedd16250e1f5dddec21190a081422c0600/Assembly_Finished.png)
+     ![Finished IV Holder Assembly](https://github.com/Alec-Hudson24/Alec-Hudson24/raw/main/Assembly_Finished.png)
 
 
 
