@@ -14,7 +14,7 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
 
 
 ### 1. IV Bag with position control and low level fluid sensing
-   - desinged and fabricated a IV holder which raises and lowers between 5 and 7 ft. It also will measure the level of fluid in the IV bag using a load cell and an alarm will go off when it gets below a desired percentage
+   - desinged and fabricated a IV holder which height adjustable between 5 and 7 ft. It also will measure the level of fluid in the IV bag using a load cell and an alarm will go off when it gets below a desired percentage
    - Solidworks, Arduino IDE, Soldering
    - Link to Demo: https://www.youtube.com/watch?v=gjZ4MjLh-VY
    - Achieved top marks in my entire class
@@ -24,8 +24,8 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
 
 
 
-### 2. Systems Dynamics and Controls Autonomous Indycar Controller
-   - Desinged a controller to autonomously get a Indycar around a track
+### 2. Systems Dynamics and Controls Autonomous IndyCar Controller
+   - Designed a controller to autonomously get a IndyCar around a track
    - Matlab and Matlab plugins
    - Enhanced Stability by a factor of 10
    - [Systems Final Presentation.pdf](https://github.com/user-attachments/files/24333923/Systems.Final.Presentation.pdf)
