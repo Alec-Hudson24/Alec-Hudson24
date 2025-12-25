@@ -31,6 +31,11 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
    - Enhanced Stability by a factor of 10
    - [Systems Final Presentation.pdf](https://github.com/user-attachments/files/24333923/Systems.Final.Presentation.pdf)
 
+## 3. Stair Climbing Robot
+   - Desinged a stair climbing robot in solidworks
+   - Solidworks
+   - machined all parts and assembled to fit in a specific size box and assembly requires less than 2 minutes and 30 seconds
+     
 
 ## Let's Connect!
 Feel free to reach out for collaborations or opportunities. Star this repo if you find it useful! ⭐
