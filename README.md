@@ -18,6 +18,8 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
    - Solidworks, Arduino IDE, Soldering
    - Link to Demo: https://www.youtube.com/watch?v=gjZ4MjLh-VY
    - Achieved top marks in my entire class
+   - [Uploading IV Project.STEP…]()
+
 
 
 ### 2. Systems Dynamics and Controls Autonomous Indycar Controller
