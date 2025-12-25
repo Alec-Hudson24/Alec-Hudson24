@@ -19,6 +19,8 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
    - Link to Demo: https://www.youtube.com/watch?v=gjZ4MjLh-VY
    - Achieved top marks in my entire class
    - 📐 Download the full 3D model: [[IV Project.step](IV Project.step)](https://github.com/Alec-Hudson24/Alec-Hudson24/blob/8172feae08f5deccbfc4d61be5180c613d4efd7b/IV%20Project.STEP)
+     
+     ![image alt](https://github.com/Alec-Hudson24/Alec-Hudson24/blob/c71e0cedd16250e1f5dddec21190a081422c0600/Assembly_Finished.png)
 
 
 
