@@ -24,7 +24,6 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
      ![Finished IV Holder Assembly](https://github.com/Alec-Hudson24/Alec-Hudson24/raw/main/Assembly_Finished.png)
 
 
-
 ### 2. Systems Dynamics and Controls Autonomous IndyCar Controller
    - Designed a controller to autonomously get a IndyCar around a track
    - Matlab and Matlab plugins
@@ -35,6 +34,11 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
    - Desinged a stair climbing robot in solidworks
    - Solidworks
    - machined all parts and assembled to fit in a specific size box and assembly requires less than 2 minutes and 30 seconds
+   - Link to Project Video: https://www.youtube.com/watch?v=xAswqLGfoRQ
+   - 📄 Bill of Materials: [Bill of Materials.pdf](https://raw.githubusercontent.com/Alec-Hudson24/Alec-Hudson24/main/Bill%20of%20Materials.pdf)
+   - 📐 Drawing Package: [Stairclimber Drawing Package.pdf](https://raw.githubusercontent.com/Alec-Hudson24/Alec-Hudson24/main/Stairclimber%20Drawing%20Package.pdf)
+
+
      
 
 ## Let's Connect!
