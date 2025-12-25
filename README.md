@@ -12,6 +12,7 @@ I'm a student studying Mechanical Engineer. I build innovative solutions to real
 - **Tools & Frameworks**: SolidWorks, AutoCAD, Fusion 360
 - **Soft Skills**: Problem-solving, team collaboration, technical writing
 
+## Projects
 
 ### 1. IV Bag with position control and low level fluid sensing
    - desinged and fabricated a IV holder which height adjustable between 5 and 7 ft. It also will measure the level of fluid in the IV bag using a load cell and an alarm will go off when it gets below a desired percentage
