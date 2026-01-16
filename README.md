@@ -20,26 +20,17 @@ Thank you for visiting — I’d love to connect and chat about engineering magi
 
 1. [Smart IV Bag Holder](https://github.com/Alec-Hudson24/Smart-IV-Bag-Stand)
 
+2. [Systems Dynamics and Controls Autonomous IndyCar Controller](https://github.com/Alec-Hudson24/Autonomous-IndyCar-Controller/blob/main/README.md)
 
-### 2. Systems Dynamics and Controls Autonomous IndyCar Controller
-   - Designed a controller to autonomously get a IndyCar around a track
-   - Matlab and Matlab plugins
-   - Enhanced Stability by a factor of 10
-   - [Systems Final Presentation.pdf](https://github.com/user-attachments/files/24333923/Systems.Final.Presentation.pdf)
+3. [Stair Climbing Robot](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/README.md)
 
-## 3. Stair Climbing Robot
-   - Desinged a stair climbing robot in solidworks
-   - Solidworks
-   - machined all parts and assembled to fit in a specific size box and assembly requires less than 2 minutes and 30 seconds
-   - Link to Project Video: https://www.youtube.com/watch?v=xAswqLGfoRQ
-   - 📄 Bill of Materials: [Bill of Materials.pdf](https://raw.githubusercontent.com/Alec-Hudson24/Alec-Hudson24/main/Bill%20of%20Materials.pdf)
-   - 📐 Drawing Package: [Stairclimber Drawing Package.pdf](https://raw.githubusercontent.com/Alec-Hudson24/Alec-Hudson24/main/Stairclimber%20Drawing%20Package.pdf)
 
 
      
 
 ## Let's Connect!
 Feel free to reach out for collaborations or opportunities. Star this repo if you find it useful! ⭐
+- ahudson05@me.com | www.linkedin.com/in/alec-hudson-0796b0346
 
 ---
 
