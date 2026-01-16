@@ -10,6 +10,7 @@ As a Mechanical Engineering student, I’m honing technical abilities in prototy
 Thank you for visiting — I’d love to connect and chat about engineering magic. 🚀
  
 - **Contact**: ahudson05@me.com | www.linkedin.com/in/alec-hudson-0796b0346
+- **Resume**: [Alec Hudson Resume](AEHUDSON Resume 01-16-26.pdf) 
 
 ## Skills
 - **Programming Languages**: Python, Arduino IDE, MATLAB
