@@ -18,14 +18,7 @@ Thank you for visiting — I’d love to connect and chat about engineering magi
 
 ## Projects
 
-### 1. IV Bag with position control and low level fluid sensing
-   - desinged and fabricated a IV holder which height adjustable between 5 and 7 ft. It also will measure the level of fluid in the IV bag using a load cell and an alarm will go off when it gets below a desired percentage
-   - Solidworks, Arduino IDE, Soldering
-   - Link to Demo: https://www.youtube.com/watch?v=gjZ4MjLh-VY
-   - Achieved top marks in my entire class
-   - 📐 Download full 3D model (STEP): [IV Project.STEP](IV%20Project.STEP)
-     
-     ![Finished IV Holder Assembly](https://github.com/Alec-Hudson24/Alec-Hudson24/raw/main/Assembly_Finished.png)
+1. [Smart IV Bag Holder](https://github.com/Alec-Hudson24/Smart-IV-Bag-Stand)
 
 
 ### 2. Systems Dynamics and Controls Autonomous IndyCar Controller
