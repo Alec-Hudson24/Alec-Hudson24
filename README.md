@@ -17,7 +17,7 @@ Thank you for visiting — I’d love to connect and chat about engineering magi
 - **Modeling Tools**: SolidWorks, AutoCAD, Fusion 360, Blender, Unreal Engine
 - **Soft Skills**: Problem-solving, team collaboration, technical writing
 
-## Projects
+## Featured Projects
 
 1. [Smart IV Bag Holder](https://github.com/Alec-Hudson24/Smart-IV-Bag-Stand)
 
