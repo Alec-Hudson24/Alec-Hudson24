@@ -19,7 +19,7 @@ Thank you for visiting — I’d love to connect and chat about engineering magi
 
 ## Featured Projects
 
-1. [Smart IV Bag Holder](https://github.com/Alec-Hudson24/Smart-IV-Bag-Stand)
+1. [Smart IV Bag Holder](https://github.com/Alec-Hudson24/Smart-IV-Bag-Stand/blob/main/README.md)  
 
 2. [Systems Dynamics and Controls Autonomous IndyCar Controller](https://github.com/Alec-Hudson24/Autonomous-IndyCar-Controller/blob/main/README.md)
 
