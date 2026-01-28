@@ -37,6 +37,6 @@ Feel free to reach out for collaborations or opportunities. Star this repo if yo
 
 ---
 
-Last updated: 01/21/2026
+Last updated: 01/27/2026
 
 *If there are any bugs or files not working feel free to let me know so I can fix it!*
