@@ -9,7 +9,7 @@ As a Mechanical Engineering student, I’m honing technical abilities in prototy
 
 Thank you for visiting — I’d love to connect and chat about engineering magic. 🚀
  
-- **Contact**: ahudson05@me.com | [Linkedin](www.linkedin.com/in/alec-hudson-0796b0346)
+- **Contact**: ahudson05@me.com | 615-638-7771 | [Linkedin](www.linkedin.com/in/alec-hudson-0796b0346)
 - **Resume**: [Alec Hudson Resume](https://github.com/Alec-Hudson24/Alec-Hudson24/blob/main/AEHUDSON%20Resume%2001-19-26.pdf)
 
 ## Skills
