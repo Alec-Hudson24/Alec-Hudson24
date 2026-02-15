@@ -27,7 +27,7 @@ Thank you for visiting Iâ€™d love to connect and chat about engineering magic. ð
 
 ## project-archive
 -  [Project List](https://github.com/Alec-Hudson24/Project-Archive/blob/main/README.md)
--  [Non Engineering Youtube Video Showcase](https://github.com/Alec-Hudson24/YouTube-Video-Showcase/blob/main/README.md)
+-  [CREATIVE Projects](https://github.com/Alec-Hudson24/YouTube-Video-Showcase/blob/main/README.md)
 
      
 
