@@ -25,6 +25,8 @@ Thank you for visiting Iâ€™d love to connect and chat about engineering magic. ð
 
 3. [Stair Climbing Robot](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/README.md)
 
+4. [Lighting Shelves](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/README.md) 
+
 ## project-archive
 -  [Project List](https://github.com/Alec-Hudson24/Project-Archive/blob/main/README.md)
 -  [CREATIVE Projects](https://github.com/Alec-Hudson24/YouTube-Video-Showcase/blob/main/README.md)
