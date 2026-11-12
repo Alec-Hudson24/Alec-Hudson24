@@ -3,11 +3,13 @@
 I'm a student studying Mechanical Engineer. I build innovative solutions to real-world problems. Check out my projects below!
 
 ## My Story!
-Growing up in Orlando surrounded by Disney, I’ve known since childhood that I wanted to become an Imagineer designing rides and experiences that bring joy to millions each year. Every skill I’ve learned, every design I’ve created, and every prototype I’ve built has been driven by that dream: blending mechanical engineering with creativity to turn imagination into reality.
+Growing up in Brentwood, Tennessee, I was always the kid taking things apart to see how they worked. Disney rides first showed me how engineering and creativity could work together to create something people remember for a lifetime, and that spark has shaped everything I’ve built since.
 
-As a Mechanical Engineering student, I’m honing technical abilities in prototyping, controls, and innovative problem solving through hands-on projects that mirror ride systems and themed entertainment. Below are a few I’ve showcased I hope you’ll dive in and see how they align with my passions!
+I’m a Mechanical Engineering student in the Honors College at Auburn University. I’ve interned with Walt Disney World and Walt Disney Imagineering, where I worked on real engineering challenges alongside multidisciplinary teams. My projects span mechanical design, controls, rapid prototyping and AI, from an autonomous stair-climbing robot to a fully local multi-camera AI video analytics system.
 
-Thank you for visiting I’d love to connect and chat about engineering magic. 🚀
+Entrepreneurship has been part of who I am since 2015, when I founded my own power washing and sealing business. Running it taught me how to lead a team, manage customers and solve problems on the spot. I also love helping others learn, whether I’m tutoring System Dynamics and Controls or training students in Auburn’s Makerspace.
+
+Below are a few of the projects I’m most proud of. Thanks for visiting! I’d love to connect and talk engineering. 🚀
  
 - **Contact**: ahudson05@me.com | 615-638-7771 | [Linkedin](www.linkedin.com/in/alec-hudson-0796b0346)
 - **Resume**: [Alec Hudson Resume](https://github.com/Alec-Hudson24/Alec-Hudson24/blob/main/AEHudson%20Resume%2011_12_2026%20General.pdf)
